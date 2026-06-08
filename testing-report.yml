@@ -14,3 +14,11 @@
 - summary: |
     Проверка загрузки сайта по HTTPS
   status: pass
+
+- summary: |
+    проверка работы на мобильном устройстве
+  status: fail
+  
+- summary: |
+    проверка отбражения русского языка
+  status: fail
