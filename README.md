@@ -8,5 +8,5 @@ requirements.yml - требования<br>
 test-cases.yml - тест-кейсы<br>
 testing-report.yml - тест-репорты<br>
 issues.yml - баги<br>
-<br>
+reopened_issues.yml - неисправленные баги<br>
 <br>
